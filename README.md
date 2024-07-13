@@ -45,7 +45,7 @@ $> < infile grep a1 | wc -w > outfile
 
 To build the project, clone the repository and run make:
 ```
-git clone https://github.com/yourusername/pipex.git
+git clone https://github.com/btoksoez/pipex.git
 cd pipex
 make
 ```
